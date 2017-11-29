@@ -1,28 +1,29 @@
 html {
-    
+
     background-color:antiquewhite;
-    
+
 }
 
 
 body {
     background-color:white;
-    
+    margin: 100px;
+
 }
 
 h1 {
     color:darkorange;
-    
+
 }
 
 h2 {
     color:cornflowerblue;
-    
+
 }
 
 
 p {
-    
+
     color:darkcyan;
-    
+
 }
