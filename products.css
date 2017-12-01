@@ -1,0 +1,26 @@
+html {
+
+    background-color:antiquewhite;
+
+}
+
+
+body {
+    background-color:white;
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+h1 {
+    color:darkorange;
+    font-family:"Impact";
+    letter-spacing: 2px;
+    font-size: 69px;
+ 
+}
+
+h2 {
+    color:cornflowerblue;
+    letter-spacing: 2px;
+    font-family: "menlo";
+}
